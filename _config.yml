@@ -6,10 +6,10 @@ color:
     - '#526D98'
     - '#FAFEFD'
     - '#F07881'
-  brandStrength: 0.498903
+  brandStrength: 0
   lightness: 1
   rhythmicContrast: 1
-  saturation: 0
+  saturation: 1
 cta: {}
 layout_spectrum: 0.174186
 name: Seasoning
