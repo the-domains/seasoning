@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000000'
+    - '#D8BA58'
+    - '#526D98'
+    - '#FAFEFD'
+    - '#F07881'
+  brandStrength: 0.498903
+  lightness: 1
+  rhythmicContrast: 1
+  saturation: 0
+cta: {}
+layout_spectrum: 0.174186
+name: Seasoning
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.4980982227693225
