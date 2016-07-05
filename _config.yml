@@ -1,7 +1,7 @@
 name: Seasoning
 favicon: null
-layout_spectrum: 0.07285499456338584
-typography_spectrum: 0.4980982227693225
+layout_spectrum: 0.8261224562302232
+typography_spectrum: 0.8458464969880879
 style: the-composer
 title: What are those weird packs?
 cta:
@@ -18,15 +18,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#D8BA58'
-    - '#526D98'
-    - '#FAFEFD'
-    - '#F07881'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
-  rhythmicContrast: 1
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  brandStrength: 0.730653949547559
+  lightness: 0.885662206215784
+  saturation: 0.48195482324808836
+  rhythmicContrast: 0.781467649852857
 purpose:
   - name: null
     item: null
